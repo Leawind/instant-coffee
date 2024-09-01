@@ -12,8 +12,6 @@ import java.util.*;
 import static com.github.mouse0w0.instantcoffee.Constants.*;
 
 public class Compiler {
-    private static final String[] EMPTY_STRING_ARRAY = new String[0];
-
     private static final String OBJECT = "java/lang/Object";
     private static final String DEPRECATED = "java/lang/Deprecated";
 
